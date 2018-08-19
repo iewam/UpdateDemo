@@ -8,6 +8,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * 自定义Dialog
+ */
 public class CommonDialog extends Dialog {
 
     private TextView titleTv;
