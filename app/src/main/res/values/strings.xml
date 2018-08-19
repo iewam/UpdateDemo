@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SKUpdateUtils</string>
+    <string name="update_service_start_failure">下载服务开启失败</string>
+    <string name="update_service_start">下载服务开启</string>
+    <string name="update_progress_changed">正在下载</string>
+    <string name="update_finished">下载完成</string>
+    <string name="update_failure">下载失败</string>
+</resources>
